@@ -1,0 +1,12 @@
+meses=[("Enero","Januar"),
+    ("febrero","Februar"),
+    ("marzo","Marsch"),
+    ("abril","April"),
+    ("mayo","Mai"),
+    ("junio","Juni"),
+    ("julio","Juli"),
+    ("agosto","August"),
+    ("septiembre","September"),
+    ("octubre","Oktober"),
+    ("noviembre","November"),
+    ("diciembre","Dezember")]
