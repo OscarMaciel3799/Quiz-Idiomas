@@ -1,0 +1,12 @@
+colores=[("Blanco","Weiß"),
+    ("Negro","Schwarz"),
+    ("Rojo","Rot"),
+    ("Azul","Blau"),
+    ("Amarillo","Gelb"),
+    ("Verde","Grün"),
+    ("Naranja","Orange"),
+    ("Rosa","Rosa"),
+    ("Marron","Braun"),
+    ("Gris","Grau"),
+    ("Morado","Lila"),
+    ("Violeta","Violett")]
